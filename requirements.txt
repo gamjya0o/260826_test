@@ -1,0 +1,4 @@
+streamlit==1.40.1
+anarci==2026.2.13.2
+biopython==1.88
+openpyxl==3.1.5
